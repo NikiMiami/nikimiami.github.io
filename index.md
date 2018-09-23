@@ -4,4 +4,6 @@ Dies ist meiner erster Jekyll-Blog mit markdown.
 
 Ich benutze A records um über meine eigene Domain auf githubpages zu kommen. Timo hilft mir dabei, weil er der Beste ist.
 
-Github hostet die Webseite.
+Github hostet die Webseite. 
+
+Ich arbeite mit der gitshell und vim.
